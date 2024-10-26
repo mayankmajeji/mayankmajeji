@@ -10,4 +10,4 @@ I am a WordPress developer who has been crafting WordPress themes, plugins, and 
 * I am the founder and lead developer at [UnmaskWP](https://unmaskwp.com) which is a WordPress detector tool that detects themes, plugins, DNS, and server information of a WordPress website. 
 * Before my career in web development and WordPress, I taught engineering students C and C++ programming languages. 
 * I love reading books, watching anime, and coding. 
-* You can reach me from my website [Mayank Majeji](mayankmajeji.com) and follow my web development [@mayankmajeji](https://twitter.com/mayankmajeji) on Twitter.
+* You can reach me from my website [Mayank Majeji](https://mayankmajeji.com) and follow my web development [@mayankmajeji](https://twitter.com/mayankmajeji) on Twitter.
