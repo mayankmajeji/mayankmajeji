@@ -16,5 +16,3 @@ I am a WordPress developer who has been crafting WordPress themes, plugins, and 
 * Before my career in web development and WordPress, I taught engineering students C and C++ programming languages. 
 * I love reading books, watching anime, and coding. 
 * You can reach me from my website [Mayank Majeji](https://mayankmajeji.com) and follow my web development [@mayankmajeji](https://twitter.com/mayankmajeji) on Twitter.
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mayankmajeji&card_width=846&card_height=250)](https://git.io/streak-stats)
