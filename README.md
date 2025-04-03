@@ -6,7 +6,7 @@
 
 I'm a **Full Stack WordPress Developer** with 10+ years of experience in building high-performance websites, custom plugins, themes, and tools for businesses and agencies across the globe.
 
-Currently, I work as the **Lead WordPress Developer at [Knight Agency](https://knightagency.com/)****, where I architect and maintain front-end and back-end solutions, including multisite networks, eCommerce platforms (WooCommerce), LMS systems (LearnDash), and custom plugins—optimized for performance, security, accessibility, and SEO.
+Currently, I work as the **Lead WordPress Developer at [Knight Agency](https://knightagency.com/)**, where I architect and maintain front-end and back-end solutions, including multisite networks, eCommerce platforms (WooCommerce), LMS systems (LearnDash), and custom plugins—optimized for performance, security, accessibility, and SEO.
 
 I'm also the **founder and developer of [UnmaskWP](https://unmaskwp.com)**, a comprehensive WordPress detection tool that analyzes themes, plugins, DNS records, server details, and SEO data for any website.
 
