@@ -1,18 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I’m Mayank Majeji
 
 <!--
 **MayankMajeji/mayankmajeji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
 
-I am a WordPress developer who has been crafting WordPress themes, plugins, and brand elements since 2015. 
+I'm a **Full Stack WordPress Developer** with 10+ years of experience in building high-performance websites, custom plugins, themes, and tools for businesses and agencies across the globe.
 
-* As the lead WordPress developer at [Knight Agency](https://knightagency.com/), I develop front-end and back-end WordPress websites and deliver high-quality WordPress websites of different niches including, multisites, LMS (LearnDash) sites, e-commerce sites, and many more.
-* I'm one of the core contributors to the WordPress open source project. 
-* I maintain several WordPress plugins and maintain them on GitHub as well, including:
-  * [Enhanced Admin User Search] (https://wordpress.org/plugins/enhanced-admin-user-search/)
-  * [WP Full Screen Search] (https://wordpress.org/plugins/wp-full-screen-search/)
-  * [WP Utility and Performance] (https://wordpress.org/plugins/wp-utility-and-performance/)
-* I am the founder and lead developer at [UnmaskWP](https://unmaskwp.com) which is a WordPress detector tool that detects themes, plugins, DNS, and server information of a WordPress website. 
-* Before my career in web development and WordPress, I taught engineering students C and C++ programming languages. 
-* I love reading books, watching anime, and coding. 
-* You can reach me from my website [Mayank Majeji](https://mayankmajeji.com) and follow my web development [@mayankmajeji](https://twitter.com/mayankmajeji) on Twitter.
+Currently, I work as the **Lead WordPress Developer at Knight Agency**, where I architect and maintain front-end and back-end solutions, including multisite networks, eCommerce platforms (WooCommerce), LMS systems (LearnDash), and custom plugins—optimized for performance, security, accessibility, and SEO.
+
+I'm also the **founder and developer of [UnmaskWP](https://unmaskwp.com)**, a comprehensive WordPress detection tool that analyzes themes, plugins, DNS records, server details, and SEO data for any website.
+
+As a **core contributor to the WordPress.org open-source project**, I dedicate time weekly to the **Core, Meta, and Polyglots teams**, and maintain several plugins on both WordPress.org and GitHub:
+
+- 🔍 [Enhanced Admin User Search](https://wordpress.org/plugins/enhanced-admin-user-search/)  
+- 🔎 [WP Full Screen Search](https://wordpress.org/plugins/wp-full-screen-search/)  
+- ⚙️ [WP Utility and Performance](https://wordpress.org/plugins/wp-utility-and-performance/)
+
+Before transitioning full-time into development, I taught engineering students C and C++—which laid the foundation for my structured approach to software.
+
+📚 Outside of work, you’ll usually find me reading, writing clean code, watching anime, or exploring new tech.
+
+📫 Reach me via my website → [mayankmajeji.com](https://mayankmajeji.com)  
+🐦 Follow my journey on Twitter → [@mayankmajeji](https://twitter.com/mayankmajeji)
