@@ -12,6 +12,8 @@ I'm also the **founder and developer of [UnmaskWP](https://unmaskwp.com)** — a
 
 As a **Core Contributor to the WordPress.org open-source project**, I dedicate time weekly to the **Core, Meta, and Polyglots teams**, and maintain several plugins on WordPress.org and GitHub:
 
+- 🔒 [Smart CAPTCHA Alternative with Cloudflare Turnstile](https://wordpress.org/plugins/smart-captcha-alternative-with-cloudflare-turnstile/)
+- 🛠️ [MenuPilot – Preview-First Menu Import & Export](https://wordpress.org/plugins/menupilot/)
 - 🔍 [Enhanced Admin User Search](https://wordpress.org/plugins/enhanced-admin-user-search/)  
 - 🔎 [WP Full Screen Search](https://wordpress.org/plugins/wp-full-screen-search/)  
 - ⚙️ [WP Utility and Performance](https://wordpress.org/plugins/wp-utility-and-performance/)
