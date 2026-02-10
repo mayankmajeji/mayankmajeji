@@ -12,15 +12,15 @@ I'm also the **founder and developer of [UnmaskWP](https://unmaskwp.com)** — a
 
 As a **Core Contributor to the WordPress.org open-source project**, I dedicate time weekly to the **Core, Meta, and Polyglots teams**, and maintain several plugins on WordPress.org and GitHub:
 
-- 🔒 [Smart CAPTCHA Alternative with Cloudflare Turnstile](https://wordpress.org/plugins/smart-captcha-alternative-with-cloudflare-turnstile/)
-- 🛠️ [MenuPilot – Preview-First Menu Import & Export](https://wordpress.org/plugins/menupilot/)
-- 🔍 [Enhanced Admin User Search](https://wordpress.org/plugins/enhanced-admin-user-search/)  
-- 🔎 [WP Full Screen Search](https://wordpress.org/plugins/wp-full-screen-search/)  
-- ⚙️ [WP Utility and Performance](https://wordpress.org/plugins/wp-utility-and-performance/)
+- [Smart CAPTCHA Alternative with Cloudflare Turnstile](https://wordpress.org/plugins/smart-captcha-alternative-with-cloudflare-turnstile/)
+- [MenuPilot – Preview-First Menu Import & Export](https://wordpress.org/plugins/menupilot/)
+- [Enhanced Admin User Search](https://wordpress.org/plugins/enhanced-admin-user-search/)  
+- [WP Full Screen Search](https://wordpress.org/plugins/wp-full-screen-search/)  
+- [WP Utility and Performance](https://wordpress.org/plugins/wp-utility-and-performance/)
 
 Before transitioning full-time into product development and technical leadership, I taught engineering students **C and C++** — which laid the foundation for my structured, extensible approach to software design.
 
-📚 Outside of work, I enjoy reading, writing clean code, watching anime, and exploring new tech and frameworks.
+Outside of work, I enjoy reading, writing clean code, watching anime, and exploring new tech and frameworks.
 
-📫 Reach me via my website → [mayankmajeji.com](https://mayankmajeji.com)  
-🐦 Follow my journey on Twitter → [@mayankmajeji](https://twitter.com/mayankmajeji)
+Reach me via my website → [mayankmajeji.com](https://mayankmajeji.com)  
+Follow my journey on Twitter → [@mayankmajeji](https://twitter.com/mayankmajeji)
